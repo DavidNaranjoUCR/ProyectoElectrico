@@ -1,0 +1,7 @@
+Requerimientos
+python3
+
+Librerías de Python
+-Selenium
+-telebot
+-pyTelegramBotAPI
