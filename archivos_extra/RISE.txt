@@ -1,0 +1,20 @@
+COMPUTACIÓN CIENTÍFICA/RISE (INVES)
+
+Esta área de investigación se centra en la elaboración y aplicación de nuevos algoritmos eficientes para apoyar las operaciones de reconocimiento de patrones y sistemas inteligentes para la investigación en el laboratorio. Toma en cuenta los enfoques clásicos y nuevos para la resolución problemas computacionales complejos, con la ayuda de métodos numéricos, métodos algorítmicos, computación paralela y distribuida, así como la visualización científica de los datos para la exploración.
+
+COMPUTACIÓN CIENTÍFICA/RISE (EQUIPOS)
+
+La computación científica diseña e implementa nuevos algoritmos eficientes para el soporte de operaciones de reconocimiento de patrones y sistemas inteligentes aplicados a problemas científicos. En RISE, solucionamos problemas computacionales complejos, con la ayuda de métodos numéricos, métodos algorítmicos, computación distribuida y paralela, así como la visualización científica para la exploración de datos.
+Mediante un clúster es posible distribuir la tarea de procesamiento de datos entre múltiples computadoras, reduciendo el tiempo de procesamiento drásticamente. Entre los proyectos planteados está el análisis de video de alta resolución, simulación de modelos no lineales y la evaluación de métodos de aprendizaje automático.
+
+Simulación de modelos no lineales
+
+Simulación de modelos que representen adecuadamente una respuesta completa en todas las condiciones posibles en el análisis de la marcha y el movimiento humano, tomando en cuenta factores variables como estatura, posición inicial, recorrido del brazo, ángulo de las articulaciones y orden de inclinación de las articulaciones.
+
+Métodos de aprendizaje automático
+
+A partir de la combinación de algoritmos genéticos, que consisten en modelar el proceso de evolución de poblaciones a partir de ciertas métricas, y algoritmos de redes neuronales, que son una abstracción que permite crear un modelo de un cerebro, es posible diseñar redes neuronales capaces de evolucionar a lo largo del tiempo para adaptarse y poder resolver un problema.
+
+Análisis de video
+
+Segmentación espacial y temporal para el análisis cualitativo y cuantitativo e interpretación semántica de video en alta resolución.

@@ -1,0 +1,11 @@
+DAWN 
+
+En DAWN desarrollamos proyectos de apoyo a la investigación y a las labores generales del laboratorio. Haciendo uso del enorme recurso tecnológico, exploramos aplicaciones de la animación digital partiendo desde el diseño conceptual, el modelado y rigging, hasta la renderización de alta calidad.
+
+Diseño conceptual
+
+Exploración de la convergencia entre el diseño y la animación digital para la creación de personajes.
+
+Animación digital
+
+Modelado y animación 2D y 3D a partir de motion capture empleando herramientas de software libre.

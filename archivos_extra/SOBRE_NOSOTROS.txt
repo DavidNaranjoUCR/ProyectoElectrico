@@ -1,0 +1,30 @@
+SOBRE NOSOTROS
+
+El Laboratorio de investigación en Reconocimiento de Patrones y Sistemas Inteligentes es parte de la Escuela de Ingeniería Eléctrica y del Programa de Posgrado en Ingeniería Eléctrica de la UCR. Fue fundado en 2012 por el Dr. rer. nat. Francisco Siles Canales como un núcleo de formación transdisciplinar.
+Buscamos la generación de investigación científica e innovación tecnológica, en pos de la integración entre la comunidad académica, el gobierno, el sector productivo, la sociedad civil y el medio ambiente, para el mejoramiento de la calidad de vida de las personas.
+
+Misión
+
+Nuestra misión es llevar a cabo proyectos inter y transdisciplinarios, y desarrollar sistemas tecnológicos computacionales avanzados capaces de lidiar con los retos del futuro, mediante las redes de colaboración y la gestión de fondos.
+
+Objetivos
+
+El objetivo primordial del laboratorio consiste en la investigación de nuevos algoritmos de procesamiento de la información para modelar procesos subyacentes de interés en varias áreas del conocimiento, en búsqueda de su interpretación, mediante el reconocimiento de patrones y los sistemas inteligentes.
+Reconocer patrones significa tomar una acción dependiendo de la categoría de los datos, mientras que un sistema inteligente es un sistema computacional con capacidades cognitivas como memoria y aprendizaje automático.
+
+Visión
+
+La visión del PRIS-Lab consiste en ser un agente de cambio, capaz de contribuir a la resolución de problemas complejos de la sociedad, a través de la investigación científica de excelencia y la innovación tecnológica avanzada.
+
+Intereses
+
+Los intereses específicos del PRIS-Lab son principalmente (pero no limitados a) reconocimiento de patrones, sistemas inteligentes, aprendizaje automático, minería de datos, procesamiento digital de señales, procesamiento digital de imágenes, captura de movimiento, biocomputación, estructuras de datos abstractos, algoritmos y programación.
+
+Colaboraciones
+
+Dentro de su marco, además de los propios proyectos de investigación, actualmente el laboratorio también participa en redes de investigación inter y transdisciplinarias: ITCB (Red de investigación translacional en cáncer y biocomputación) y SCRN (Red de investigación en computación científica).
+
+Organización
+
+Actualmente el Dr. rer. nat. Francisco Siles Canales dirige el PRIS-Lab en la posición de Coordinador General. El laboratorio está conformado por 5 equipos de investigación en diferentes áreas y dos equipos que desarrollan proyectos de apoyo a la investigación. Cada equipo cuenta con un Coordinador y cumplen funciones particulares orientadas al fortalecimiento de la misión y visión del laboratorio. Los Coordinadores de cada equipo, junto con el Coordinador General forman un octavo equipo, construyendo un lenguaje común para cumplir los objetivos del laboratorio.
+

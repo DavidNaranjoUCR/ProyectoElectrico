@@ -1,0 +1,12 @@
+JAM
+
+En JAM realizamos las labores de IT del laboratorio. Nos ocupamos del mantenimiento, instalación y puesta en funcionamiento de todos los estaciones de trabajo, las conexiones de redes y servidores del PRIS-Lab. También nos encargamos de implementar y configurar todos los servicios internos y públicos.
+El trabajo de JAM se podría considerar la espina dorsal del laboratorio, ya que las labores que realizamos en este equipo son fundamentales para permitir el buen flujo de trabajo y facilita la labor de investigación de los demás equipos en el laboratorio.
+
+Soporte técnico
+
+Mantenimiento del equipo computacional del laboratorio. Tanto hardware como software.
+
+Servicios de la nube
+
+Puesta en marcha y mantenimiento de servicios en la nube del laboratorio.

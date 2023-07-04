@@ -1,0 +1,21 @@
+ANÁLISIS DEPORTIVO/ACE (INVESTIGACIÓN)
+
+Los algoritmos investigados cubren las etapas de percepción con el fin de obtener información pertinente tomada de sensores, como cámaras de vídeo, y las etapas de la cognición para construir los modelos de interpretación para la representación de las acciones, eventos y episodios ocurrieron durante las actividades realizadas. Actualmente, las principales actividades que se analizan son los deportes, sobre todo fútbol de asociación, pero la intención en un futuro próximo es extender nuestro sistema actual a otros deportes al aire libre, así como otras actividades en el interior, para generar análisis estadístico, táctico y estratégico.
+
+
+ANÁLISIS DEPORTIVO/ACE (EQUIPOS)
+
+Los nuevos algoritmos que desarrollamos en esta área cubren las etapas de percepción a partir de sensores relevantes como videocámaras, así como las etapas cognitivas para construir modelos de interpretación de acciones y actividades deportivas, siendo posible realizar un análisis automático de jugadas y el planteamiento de mejoras en el juego, de forma objetiva y concisa.
+ACE busca extraer de forma automática las tácticas y estrategias de juegos deportivos, basándose en videos de televisión. En el caso del fútbol, se logra localizar a los jugadores visibles en el campo, e identificar jugadas y recolectar datos estadísticos. Actualmente trabajamos con partidos de fútbol, generando análisis estadísticos, tácticos y estratégicos.
+
+Segmentacion temporal y espacial
+
+Definir automaticamente cuáles porciones de video proporcionan información útil para el análisis, detectando cortes de escenas y tipos de toma. Además, con técnicas de procesamiento de imágenes se detectan las regiones de la imagen que corresponden a los jugadores.
+
+Calibración modelo de cámara
+
+Aproximación de los parámetros de la cámara para reconstruir la escena en "3D" del juego a partir de los puntos rastreados.
+
+Clasificacion acciones y estrategias
+
+A partir del desplazamiento de los puntos en la escena 3D, se clasifica las jugadas en sus diversos tipos (cobertura, jugada ofensiva, etc.) .Conociendo entonces la serie de acciones realizadas por cada equipo es posible clasificar las estrategias

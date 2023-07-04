@@ -1,0 +1,16 @@
+MOVIMIENTO HUMANO/MOVE (INVESTIGACIÓN)
+
+El objetivo de esta área de investigación es el desarrollo de sistemas de modelado computacional para el análisis bio-mecánico (cinemático) automatizado de las acciones humanas, en particular para mejorar la salud y la optimización del rendimiento. El objetivo es proporcionar mecanismos eficaces y eficientes para la obtención de información relevante para interpretar las acciones humanas en el interés de los entrenadores, periodistas, científicos del deporte, fisioterapeutas, médicos, entre otros. Actualmente, las acciones analizadas son la marcha, la escoliosis, y las artes marciales.
+
+MOVIMIENTO HUMANO/MOVE (EQUIPOS)
+
+Nuestro propósito en esta área de investigación consiste en el análisis tridimensional del movimiento humano y el desarrollo de sistemas de modelado computacional para el análisis biomecánico-cinemático de movimientos humanos, en particular para optimizar el desempeño deportivo y el mejoramiento de la salud.
+Mediante coordenadas generadas por un avanzado equipo de captura de movimiento, es posible leer las posiciones de puntos en el espacio, y utilizar dicha información para mejorar métodos de terapia física y desempeño deportivo, además de otras aplicaciones relacionadas con la animación digital.
+
+Análisis de la marcha
+
+un estudio clínico sencillo que permite identificar afectaciones de la locomoción. Se utiliza como herramienta de diagnóstico y control del tratamiento. Con el fin de facilitar esta tarea se está desarrollando un software con una arquitectura de librería, utilizando como modelo experimental la marcha, pero con posibles usos en el estudio del movimiento humano en general.
+
+Bases de datos de movimiento humano
+
+Almacenamiento de gestas deportivas de los principales deportes que se realizan actualmente, tanto en hombres como en mujeres y así mismo sus niveles de entrenamiento.

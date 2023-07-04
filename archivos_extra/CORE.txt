@@ -1,0 +1,16 @@
+ROBÓTICA COGNITIVA/CORE (INVESTIGACIÓN)
+
+El objetivo de esta área de investigación es la creación de sistemas inteligentes para permitir a robots razonar acerca de su entorno y que sean capaces de simular internamente sus interacciones con el mundo, con el fin de aprender acerca de este proceso de forma que puedan interactuar mejor con él. Estos sistemas inteligentes proporcionan a los robots humanoides habilidades como la percepción, la atención, la memoria, el aprendizaje, con el objetivo de resolver problemas en entornos complejos, especialmente en robótica social con la interacción humano-robot.
+
+ROBÓTICA COGNITIVA/CORE (EQUIPOS)
+
+En esta área de investigación dedicamos nuestros esfuerzos a la exploración de la robótica, cubriendo diferentes áreas de la ciencia y el arte. Buscamos la creación de sistemas inteligentes para permitir a robots el razonar sobre su entorno, resolviendo problemas complejos para interactuar mejor con éste. En particular, deseamos proveer a robots humanoides con habilidades para demostrar interacciones.
+CORE desafía ideas preconcebidas sobre la robótica desarrollando proyectos transdisciplinares que van desde producciones artísticas robots y humanos, hasta torneos internacionales de fútbol entre robots autónomos, buscando llevar la investigación en robótica a nuevos horizontes.
+
+Implementación de algoritmos
+
+Desarrollo de un programa que permite a los robots NAO® jugar futbol de manera autónoma así como el reconocimiento y seguimiento de objetos a tiempo real y la implementación de rutinas para la mejora de la interacción humano-robot.
+
+Modelos de comunicación
+
+Comunicación por medio de sensores infrarrojos y control del robot NAO® a través de un joystick.

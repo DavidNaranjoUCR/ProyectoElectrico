@@ -1,0 +1,20 @@
+BIOCOMPUTACIÓN/BEND (INVESTIGACIÓN)
+
+El objetivo de esta área de investigación es el desarrollo y aplicación de métodos teóricos y de análisis de datos, modelos matemáticos y técnicas de simulación computacional para el estudio de sistemas biológicos. Utiliza métodos matemáticos y computacionales para abordar cuestiones teóricas y experimentales en biología, tal como lo define el NIH.
+La biocomputación es un área de investigación transdisciplinaria, en la que el conocimiento del área biológica (biología, microbiología, biología de sistemas, genómica, proteómica, etc.) y el área de análisis y modelos (matemáticas, ingeniería eléctrica, informática, etc.) son requeridos. La enorme cantidad de datos biológicos generados experimentalmente necesita ser procesada y los algoritmos de reconocimiento de patrones están para ser aplicados con el fin de descubrir nuevas ideas desconocidas y útiles con el fin de ayudar a mejorar la calidad de vida.
+
+BIOCOMPUTACIÓN/BEND (EQUIPOS)
+
+En BEND exploramos el área de la biocomputación, aplicando técnicas de reconocimiento de patrones en grandes cantidades de datos para enfrentar retos teóricos y experimentales en sistemas biológicos. Hemos trabajado en el modelado genómico para la predicción de quimiosensibilidad, en el siguimiento de células cancerígenas en videos de microscopio para la representación de la citotoxicidad, en el rastreo de microorganismos en tiempo real en vídeo generado por microscopía electrónica, en donde, haciendo un seguimiento continuo, es posible evaluar el efecto de diferentes tipos de terapias y estimar cúal puede funcionar mejor en terápias personalizadas.
+
+Predicción de quimiosensibilidad
+
+El objetivo es brindar terapia personalizada a pacientes de cáncer determinando cual quimioterapia es ideal para su perfil basado en su código genético.
+
+Rastreo de células
+
+A través de segmentación temporal y espacial, se separa, identifica y diagnostica el comportamiento de células afectadas por enfermedades y a las cuales se les ha aplicado cierto tratamiento para determinar su efectividad.
+
+Detección de virus
+
+Usando reconocimiento de patrones y espectroscopía no lineal generada por medio de un dispositivo de fibra óptica dopada, se desea diagnosticar virus como Zika, Dengue, Chincungunya en muestras de sangre.
