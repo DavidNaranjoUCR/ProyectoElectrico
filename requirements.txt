@@ -1,7 +1,7 @@
 Requerimientos
 python3
 
-Librerías de Python instaladas con pip
+Librerías de Python3 instaladas con pip
 -selenium v4.9.1
 -telebot v0.0.5
 -pyTelegramBotAPI v4.10.0
