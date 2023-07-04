@@ -1,3 +1,4 @@
+# Bot Elaborado por David Naranjo Loría B95529
 import telebot
 from telebot import types
 from telebot import formatting
