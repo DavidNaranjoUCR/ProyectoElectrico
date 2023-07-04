@@ -3,5 +3,5 @@ python3
 
 Librerías de Python
 -selenium v4.9.1
--telebot 0.0.5
+-telebot v0.0.5
 -pyTelegramBotAPI v4.10.0
